@@ -115,4 +115,8 @@ Lista de comandos para Windows con "Ejecutar" (Win + R)
 - **mrt** → Herramienta de eliminación de malware
 
 ## :art: Configuraciones de escritorio y personalización
-
+- **desk.cpl** → Configuración de pantalla
+- **control fonts** → Configuración de fuentes
+- **control /name Microsoft.Personalization** → Personalización
+- **shell:startup** → Carpeta de inicio de Windows
+- **shell:common startup** → Carpeta de inicio para todos los usuarios
