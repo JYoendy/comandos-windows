@@ -65,6 +65,16 @@ Lista de comandos para Windows con "Ejecutar" (Win + R)
 - **credwiz** - Administrador de credenciales
 
 ## :bar_chart: Monitorización y diagnóstico
+- **control admintools** → Herramientas administrativas
+- **control system** → Información del sistema
+- **control keyboard** → Configuración del teclado
+- **control mouse** → Configuración del ratón
+- **control netconnections** → Adaptadores de red
+- **control panel** → Abre Panel de control
+- **printmanagement.msc** → Administración de impresión
+- **sigverif** → Verificador de firmas digitales
+- **msinfo32** → Información del sistema
+- **psr** → Grabador de pasos de problemas
 
 ## :musical_note: Multimedia y accesibilidad
 
