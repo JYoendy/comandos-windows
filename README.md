@@ -2,7 +2,7 @@
 Lista de comandos para Windows con "Ejecutar" (Win + R)
 
 ## :wrench: Administración del sistema
-- **cmd** &#2192; Abre la línea de comandos
+- **cmd** :arrow_right: Abre la línea de comandos
 - **powershell** &#2192; Abre PowerShell
 - **control** &#2192; Abre el panel de control
 - **msconfig** &#2192; Configuación del sistema
