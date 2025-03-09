@@ -2,26 +2,26 @@
 Lista de comandos para Windows con "Ejecutar" (Win + R)
 
 ## :wrench: Administración del sistema
-- **cmd** \u27F6 Abre la línea de comandos
-- **powershell** \u27F6 Abre PowerShell
-- **control** \u27F6 Abre el panel de control
-- **msconfig** \u27F6 Configuación del sistema
-- **regedit** \u27F6 Editor de registro
-- **eventvwr** \u27F6 Visor de eventos
-- **compmgmt.msc** \u27F6 Administración del equipo
-- **services.msc** \u27F6 Administración de servicios
-- **taskschd.msc** \u27F6 Programador de tareas
-- **perfmon** \u27F6 Monitor de rendimiento
-- **resmon** \u27F6 Monitor de recursos
-- **dfrgui** \u27F6 Desfragmentador de disco
-- **diskmgmt.msc** \u27F6 Administración de discos
-- **cleanmgr** \u27F6 Liberador de espacio en disco
-- **sysdm.cpl** \u27F6 Propiedades del sistema
-- **firewall.cpl** \u27F6 Configuración del Firewall
-- **optionalfeatures** \u27F6 Características de Windows
-- **lusrmgr.msc** \u27F6 Usuarios y grupos locales
-- **secpol.msc** \u27F6 Directivas de seguridad local
-- **gpedit.msc** \u27F6 Editor de directivas de grupo
+- **cmd** \u2192 Abre la línea de comandos
+- **powershell** \u2192 Abre PowerShell
+- **control** \u2192 Abre el panel de control
+- **msconfig** \u2192 Configuación del sistema
+- **regedit** \u2192 Editor de registro
+- **eventvwr** \u2192 Visor de eventos
+- **compmgmt.msc** \u2192 Administración del equipo
+- **services.msc** \u2192 Administración de servicios
+- **taskschd.msc** \u2192 Programador de tareas
+- **perfmon** \u2192 Monitor de rendimiento
+- **resmon** \u2192 Monitor de recursos
+- **dfrgui** \u2192 Desfragmentador de disco
+- **diskmgmt.msc** \u2192 Administración de discos
+- **cleanmgr** \u2192 Liberador de espacio en disco
+- **sysdm.cpl** \u2192 Propiedades del sistema
+- **firewall.cpl** \u2192 Configuración del Firewall
+- **optionalfeatures** \u2192 Características de Windows
+- **lusrmgr.msc** \u2192 Usuarios y grupos locales
+- **secpol.msc** \u2192 Directivas de seguridad local
+- **gpedit.msc** \u2192 Editor de directivas de grupo
 
 ## :globe_with_meridians: Redes y conectividad
 
