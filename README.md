@@ -2,7 +2,26 @@
 Lista de comandos para Windows con "Ejecutar" (Win + R)
 
 ## :wrench: Administración del sistema
-- <span style="color:blue"><strong>cmd</strong></span>
+- **cmd** -> Abre la línea de comandos
+- **powershell** -> Abre PowerShell
+- **control** -> Abre el panel de control
+- **msconfig** -> Configuación del sistema
+- **regedit** -> Editor de registro
+- **eventvwr** -> Visor de eventos
+- **compmgmt.msc** -> Administración del equipo
+- **services.msc** -> Administración de servicios
+- **taskschd.msc** -> Programador de tareas
+- **perfmon** -> Monitor de rendimiento
+- **resmon** -> Monitor de recursos
+- **dfrgui** -> Desfragmentador de disco
+- **diskmgmt.msc** -> Administración de discos
+- **cleanmgr** -> Liberador de espacio en disco
+- **sysdm.cpl** -> Propiedades del sistema
+- **firewall.cpl** -> Configuración del Firewall
+- **optionalfeatures** -> Características de Windows
+- **lusrmgr.msc** -> Usuarios y grupos locales
+- **secpol.msc** -> Directivas de seguridad local
+- **gpedit.msc** -> Editor de directivas de grupo
 
 ## :globe_with_meridians: Redes y conectividad
 
