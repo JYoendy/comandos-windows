@@ -110,6 +110,9 @@ Lista de comandos para Windows con "Ejecutar" (Win + R)
 - **syskey** → Protección de cifrado de Windows
 
 ## :memo: Reportes y diagnósticos
+- **dxdiag** → Diagnóstico de DirectX
+- **msdt** → Herramienta de diagnóstico de Windows
+- **mrt** → Herramienta de eliminación de malware
 
 ## :art: Configuraciones de escritorio y personalización
 
