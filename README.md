@@ -52,6 +52,17 @@ Lista de comandos para Windows con "Ejecutar" (Win + R)
 - **charmap** → Abre Mapa de caracteres
 
 ## :open_file_folder: Explorador de archivos y configuración del sistema
+- **explorer** → Abre Explorador de archivos
+- **shell:startup** → Carpeta de inicio de Windows
+- **shell:appsfolder** → Lista de aplicaciones instaladas
+- **shell:sendto** → Carpeta "Enviar a"
+- **shell:recent** → Carpeta "Archivos recientes"
+- **shell:downloads** → Carpeta "Descargas"
+- **shell:documents** → Carpeta "Documentos"
+- **shell:desktop** → Carpeta "Escritorio"
+- **syskey** → Configuración de cifrado de Windows
+- **rundll32.exe keymgr.dll,KRShowKeyMgr** → Gestor de contraseñas almacenadas
+- **credwiz** - Administrador de credenciales
 
 ## :bar_chart: Monitorización y diagnóstico
 
