@@ -105,6 +105,9 @@ Lista de comandos para Windows con "Ejecutar" (Win + R)
 - **rekeywiz** → Administrador de claves de cifrado
 
 ## :lock: Seguridad y protección de datos
+- **secpol.msc** → Políticas de seguridad local
+- **certmgr.msc** → Administrador de certificados
+- **syskey** → Protección de cifrado de Windows
 
 ## :memo: Reportes y diagnósticos
 
