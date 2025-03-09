@@ -24,6 +24,15 @@ Lista de comandos para Windows con "Ejecutar" (Win + R)
 - **gpedit.msc** → Editor de directivas de grupo
 
 ## :globe_with_meridians: Redes y conectividad
+- **ncpa.cpl** → Configuración de redes
+- **wf.msc** → Firewall avanzado
+- **inetcpl.cpl** → Opciones de internet
+- **fsquirt** → Transferencia de archivos por Bluetooth
+- **netplwiz** → Administración de cuentas de usuario
+- **hdwwiz.cpl** → Administrador de hardware
+- **azman.msc** → Administrador de autorización
+- **devmgmt.msc** → Administrador de dispositivos
+- **mmc** → Consola de administración
 
 ## :desktop_computer: Diagnóstico y monitorización
 
