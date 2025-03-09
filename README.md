@@ -35,8 +35,14 @@ Lista de comandos para Windows con "Ejecutar" (Win + R)
 - **mmc** → Consola de administración
 
 ## :desktop_computer: Diagnóstico y monitorización
+- **mrt** → Herramienta de eliminación de software malintencionado
+- **dxdiag** → Diagnóstico de DirectX
+- **sysinfo** → Información del sistema
+- **verifier** → Administrador de controladores
+- **sigverif** → Comprobador de firmas de controladores
 
 ## :battery: Opciones de energía
+
 
 ## :hammer_and_wrench: Herramientas de utilidad
 
