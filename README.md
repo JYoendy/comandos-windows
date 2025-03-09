@@ -77,6 +77,25 @@ Lista de comandos para Windows con "Ejecutar" (Win + R)
 - **psr** → Grabador de pasos de problemas
 
 ## :musical_note: Multimedia y accesibilidad
+- **sndvol** → Control de volumen
+- **mmsys.cpl** → Configuración de sonido
+- **joy.cpl** → Configuración de joysticks
+- **main.cpl** → Propiedades del ratón, seguridad y cifrado
+- **cipher** → Cifrado de archivos
+- **tpm.msc** → Módulo de plataforma segura (TPM)
+- **certmgr.msc** → Administración de certificados
+- **rstrui** → Restaurar configuración de Windows
+- **start ms-settings** → Abre Configuración
+- **start ms-settings:windowsupdate** → Abre Windows Update
+- **start ms-settings:network** → Abre Configuración de red
+- **start ms-settings:display** → Abre Pantalla
+- **start ms-settings:bluetooth** → Bluetooth - Configuración avanzada de Windows
+- **winver** → Versión de Windows
+- **control color** → Configuración de colores
+- **timedate.cpl** → Configuración de fecha y hora
+- **intl.cpl** → Configuración de región
+- **sysdm.cpl ,4** → Configuración avanzada de sistema
+- **printui /s /t2** → Configuración avanzada de impresoras
 
 ## :gear: Administración de servicios y procesos
 
