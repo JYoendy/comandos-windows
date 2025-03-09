@@ -42,7 +42,8 @@ Lista de comandos para Windows con "Ejecutar" (Win + R)
 - **sigverif** → Comprobador de firmas de controladores
 
 ## :battery: Opciones de energía
-
+- **powercfg.cpl** → Configuración de energía
+- **powercfg /batteryreport** → Informe de batería
 
 ## :hammer_and_wrench: Herramientas de utilidad
 
