@@ -46,6 +46,10 @@ Lista de comandos para Windows con "Ejecutar" (Win + R)
 - **powercfg /batteryreport** → Informe de batería
 
 ## :hammer_and_wrench: Herramientas de utilidad
+- **mspaint** → Abre Paint
+- **notepad** → Abre Bloc de notas
+- **calc** → Abre Calculadora
+- **charmap** → Abre Mapa de caracteres
 
 ## :open_file_folder: Explorador de archivos y configuración del sistema
 
