@@ -98,6 +98,11 @@ Lista de comandos para Windows con "Ejecutar" (Win + R)
 - **printui /s /t2** → Configuración avanzada de impresoras
 
 ## :gear: Administración de servicios y procesos
+- **taskmgr** → Administrador de tareas
+- **services.msc** → Administrador de servicios
+- **perfmon.msc** → Monitor de rendimiento
+- **eventvwr.msc** → Visor de eventos
+- **rekeywiz** → Administrador de claves de cifrado
 
 ## :lock: Seguridad y protección de datos
 
