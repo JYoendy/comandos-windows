@@ -2,6 +2,7 @@
 Lista de comandos para Windows con "Ejecutar" (Win + R)
 
 ## :wrench: Administración del sistema
+- <span style="blue>**cmd**</span>
 
 ## :globe_with_meridians: Redes y conectividad
 
