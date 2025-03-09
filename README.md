@@ -2,26 +2,26 @@
 Lista de comandos para Windows con "Ejecutar" (Win + R)
 
 ## :wrench: Administración del sistema
-- **cmd** -> Abre la línea de comandos
-- **powershell** -> Abre PowerShell
-- **control** -> Abre el panel de control
-- **msconfig** -> Configuación del sistema
-- **regedit** -> Editor de registro
-- **eventvwr** -> Visor de eventos
-- **compmgmt.msc** -> Administración del equipo
-- **services.msc** -> Administración de servicios
-- **taskschd.msc** -> Programador de tareas
-- **perfmon** -> Monitor de rendimiento
-- **resmon** -> Monitor de recursos
-- **dfrgui** -> Desfragmentador de disco
-- **diskmgmt.msc** -> Administración de discos
-- **cleanmgr** -> Liberador de espacio en disco
-- **sysdm.cpl** -> Propiedades del sistema
-- **firewall.cpl** -> Configuración del Firewall
-- **optionalfeatures** -> Características de Windows
-- **lusrmgr.msc** -> Usuarios y grupos locales
-- **secpol.msc** -> Directivas de seguridad local
-- **gpedit.msc** -> Editor de directivas de grupo
+- **cmd** \u27F6 Abre la línea de comandos
+- **powershell** \u27F6 Abre PowerShell
+- **control** \u27F6 Abre el panel de control
+- **msconfig** \u27F6 Configuación del sistema
+- **regedit** \u27F6 Editor de registro
+- **eventvwr** \u27F6 Visor de eventos
+- **compmgmt.msc** \u27F6 Administración del equipo
+- **services.msc** \u27F6 Administración de servicios
+- **taskschd.msc** \u27F6 Programador de tareas
+- **perfmon** \u27F6 Monitor de rendimiento
+- **resmon** \u27F6 Monitor de recursos
+- **dfrgui** \u27F6 Desfragmentador de disco
+- **diskmgmt.msc** \u27F6 Administración de discos
+- **cleanmgr** \u27F6 Liberador de espacio en disco
+- **sysdm.cpl** \u27F6 Propiedades del sistema
+- **firewall.cpl** \u27F6 Configuración del Firewall
+- **optionalfeatures** \u27F6 Características de Windows
+- **lusrmgr.msc** \u27F6 Usuarios y grupos locales
+- **secpol.msc** \u27F6 Directivas de seguridad local
+- **gpedit.msc** \u27F6 Editor de directivas de grupo
 
 ## :globe_with_meridians: Redes y conectividad
 
