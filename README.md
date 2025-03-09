@@ -2,26 +2,26 @@
 Lista de comandos para Windows con "Ejecutar" (Win + R)
 
 ## :wrench: Administración del sistema
-- **cmd** :arrow_right: Abre la línea de comandos
-- **powershell** &#2192; Abre PowerShell
-- **control** &#2192; Abre el panel de control
-- **msconfig** &#2192; Configuación del sistema
-- **regedit** &#2192; Editor de registro
-- **eventvwr** &#2192; Visor de eventos
-- **compmgmt.msc** &#2192; Administración del equipo
-- **services.msc** &#2192; Administración de servicios
-- **taskschd.msc** &#2192; Programador de tareas
-- **perfmon** &#2192; Monitor de rendimiento
-- **resmon** &#2192; Monitor de recursos
-- **dfrgui** &#2192; Desfragmentador de disco
-- **diskmgmt.msc** &#2192; Administración de discos
-- **cleanmgr** &#2192; Liberador de espacio en disco
-- **sysdm.cpl** &#2192; Propiedades del sistema
-- **firewall.cpl** &#2192; Configuración del Firewall
-- **optionalfeatures** &#2192; Características de Windows
-- **lusrmgr.msc** &#2192; Usuarios y grupos locales
-- **secpol.msc** &#2192; Directivas de seguridad local
-- **gpedit.msc** &#2192; Editor de directivas de grupo
+- **cmd** → Abre la línea de comandos
+- **powershell** → Abre PowerShell
+- **control** → Abre el panel de control
+- **msconfig** → Configuación del sistema
+- **regedit** → Editor de registro
+- **eventvwr** → Visor de eventos
+- **compmgmt.msc** → Administración del equipo
+- **services.msc** → Administración de servicios
+- **taskschd.msc** → Programador de tareas
+- **perfmon** → Monitor de rendimiento
+- **resmon** → Monitor de recursos
+- **dfrgui** → Desfragmentador de disco
+- **diskmgmt.msc** → Administración de discos
+- **cleanmgr** → Liberador de espacio en disco
+- **sysdm.cpl** → Propiedades del sistema
+- **firewall.cpl** → Configuración del Firewall
+- **optionalfeatures** → Características de Windows
+- **lusrmgr.msc** → Usuarios y grupos locales
+- **secpol.msc** → Directivas de seguridad local
+- **gpedit.msc** → Editor de directivas de grupo
 
 ## :globe_with_meridians: Redes y conectividad
 
